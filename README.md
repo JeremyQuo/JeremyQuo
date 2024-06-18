@@ -7,7 +7,7 @@
 
 - 🤔 An analyzer on nanopore sequencing
 
-- 🔭 I’m currently working on Direct RNA Sequencing
+- 🔭 Working on Direct RNA Sequencing
 
 - 🥼 Currently a member of <a class="navigation-title" href="https://lrslab.github.io/">LRSlab@CityU </a>
 
