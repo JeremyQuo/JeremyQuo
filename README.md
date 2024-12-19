@@ -18,6 +18,7 @@
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=lrslab&repo=nanoCEM)](https://github.com/lrslab/nanoCEM)
 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=lrslab&repo=nanoSundial)](https://github.com/lrslab/nanoSundial)
 
 <h3 align="left">Statistical information</h3>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jeremyquo&show_icons=true&locale=en&layout=donut" alt="jeremyquo" height="200" /></p>
